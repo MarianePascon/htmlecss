@@ -7,6 +7,9 @@
     justify-content: space-between;
 }
 
+body{
+    font-family: 'Inter', sans-serif;
+}
 .logo{
     font-family: 'Inter', sans-serif;
     font-size: 30px;
@@ -96,4 +99,34 @@ h1{
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     color: #5f5f5f;
+}
+
+h4{
+    font-size: 14px;
+    color: darkred;
+    background-color: #8E24240D;
+    border: 10px solid #8E24240D;
+    border-radius: 8px;
+   display: block;
+   width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3{
+    font-size: 36px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: #5f5f5f;
+    text-align: center;
+}
+.vaga{
+    height: 500px;
+    width: 1520px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

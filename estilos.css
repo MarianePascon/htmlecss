@@ -243,3 +243,36 @@ p{
     font-size: 14px;
     color: #5f5f5f;
 }
+
+.setima{
+    background: #F9FAFB;
+}
+
+.setima h1{
+    font-size: 36px;
+}
+
+.setima p{
+    font-size: 20px;
+    color: #5f5f5f;
+}
+
+.setima li{
+   display: inline;
+   
+}
+
+.setima li a{
+    text-decoration: none;
+    background-color: darkred;
+    color: white;
+    font-size: 15px;
+    margin: 0 auto;
+    background-size: 76px 28px;
+    border-radius: 8px;
+}
+
+.setima h3{
+    font-size: 16px;
+    color: #5f5f5f;
+}

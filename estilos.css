@@ -205,3 +205,41 @@ p{
     margin: 0 8px;
     align-self: stretch;
 }
+
+.sexta{
+    background: rgba(196, 25, 25, 0.03);
+    width: 1520px;
+    height: 404px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.sexta h2{
+    color: darkred;
+    text-align: center;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sexta h1{
+    font-size: 36px;
+    text-align: center;
+}
+
+.sexta img{
+    align-items: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sexta h3{
+    font-size: 16px;
+}
+
+.sexta h6{
+    font-size: 14px;
+    color: #5f5f5f;
+}

@@ -123,10 +123,85 @@ p{
     color: #5f5f5f;
     text-align: center;
 }
-.vaga{
+.fto{
     height: 500px;
     width: 1520px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.area{
+    font-size: 20px;
+}
+
+.vaga{
+    font-size: 20px;
+    width: 768px;
+    margin: 0 auto;
+}
+.vaga1{
+   width: 768px;
+   margin: 50px auto;
+   border: 1px solid #EAECF0;
+   display: flex;
+   flex-direction: column;
+   padding: 24px 24px 28px;
+   border-radius: 16px;
+}
+
+.vaga2{
+    width: 768px;
+   margin: 50px auto;
+   border: 1px solid #EAECF0;
+   display: flex;
+   flex-direction: column;
+   padding: 24px 24px 28px;
+   border-radius: 16px;
+}
+
+.vaga3{
+    width: 768px;
+   margin: 50px auto;
+   border: 1px solid #EAECF0;
+   display: flex;
+   flex-direction: column;
+   padding: 24px 24px 28px;
+   border-radius: 16px;
+}
+
+.vaga4{
+    width: 768px;
+    margin: 50px auto;
+    border: 1px solid #EAECF0;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px 28px;
+    border-radius: 16px;
+}
+
+.vaga5{
+    width: 768px;
+   margin: 50px auto;
+   border: 1px solid #EAECF0;
+   display: flex;
+   flex-direction: column;
+   padding: 24px 24px 28px;
+   border-radius: 16px;
+}
+
+.titulo-vaga{
+    width: 720px;
+    height: 28px;
+    font-size: 18px;
+    align-self: stretch;
+    margin: 8px 8px 28px;
+    font-weight: 750;
+}
+
+.informacoes{
+    color: #5f5f5f;
+    font-size: 16px;
+    margin: 0 8px;
+    align-self: stretch;
 }
